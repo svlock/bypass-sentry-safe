@@ -1,3 +1,7 @@
+///Wouldn't compile on SAMD21, made a small change declaring digital pin and set an operator for a serial.write(0x0) which the SAMD21 compiler wouldn't accept. The ///rest is just semantics. Combination changed from 123456 to the Master Lock/Sentry HQ ZIP code.
+///Excellent job h4ckd4ddy!!
+
+
 # How to open a safe
 
 ### TL;DR
